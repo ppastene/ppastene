@@ -1,9 +1,7 @@
 # Hello stranger 👋
 
-🤓 I'm Pedro Pablo, software developer, bike rider, videogame enthusiast and retro collector, traveller and a drummer when I have a drum kit nearby.
-
-☕ I love to work with amazing technologies and share a good project, a good coffee with good people in good places.
-
+🤓 I'm Pedro Pablo, software developer, bike rider, videogame enthusiast, traveller and a drummer when I have a drum kit nearby.  
+☕ I love to work with amazing technologies and share a good project, a good coffee with good people in good places.  
 🎮 Sometimes I kick ass in FPS, racing games and Dance Dance Revolution.
 
 ## 👓 My skills and interests
