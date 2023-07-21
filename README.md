@@ -13,12 +13,24 @@
 ## 🚀 My current stack
 * PHP/Laravel
 * Javascript/Nodejs
+* Go
 * SQL databases
 * Docker/Kubernetes
 * GIT
 
-## 🖥️ What I'm doing right now?
-* Learning Go + Gin
-* Learning AWS
+## 🖥️ What I'm willing to learn
+* Python
+* Java/Spring Boot
+* Terraform
+* Apache Kafka
+* Redis
+* NoSQL databases
+
+## 💡 What I'm doing right now?
+* Keep learning Go
+* Learning Design Patterns and Hexagonal Architecture
+* Learning AWS/Azure
 * Improving my website
+* Reading NFC/Felica cards from an Arduino
+* Going to American Kenpo Karate classes
 * Improving my DDR skills
